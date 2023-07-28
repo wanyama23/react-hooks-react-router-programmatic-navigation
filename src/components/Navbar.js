@@ -9,7 +9,6 @@ const linkStyles = {
   textDecoration: "none",
   color: "white",
 };
-
 function Navbar({ setIsLoggedIn }) {
   const history = useHistory();
 
